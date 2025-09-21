@@ -3,6 +3,9 @@
 
 An intelligent blockchain transaction analyzer that uses AI to automatically categorize and visualize Cardano transactions with interactive and real-time insights.
 
+## Project Team
+Built By Shashank G & Jashwanth S
+
 ## 🎯 Project Overview
 
 Transform complex Cardano blockchain data into intuitive, AI-powered insights. This dashboard connects to your Cardano wallet, fetches transaction history from the Preprod network, and uses advanced AI models to automatically categorize your spending patterns
@@ -136,7 +139,7 @@ This project is licensed under the MIT License.
 
 ## 🔗 Links
 
-- **Live Demo**: [deployment URL](https://india-codex-2025-cardano-bois.vercel.app/)]
+- **Live Demo**: [deployment URL](https://india-codex-2025-cardano-bois.vercel.app/)
 - **Documentation**: [Mesh.js Docs](https://meshjs.dev)
 - **Cardano**: [cardano.org](https://cardano.org)
 - **Blockfrost**: [blockfrost.io](https://blockfrost.io)

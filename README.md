@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+EMail - shashankkk7@protonmail.com
+
 # AI-Powered Cardano Transaction Dashboard
 
 An intelligent blockchain transaction analyzer that uses AI to automatically categorize and visualize Cardano transactions with interactive and real-time insights.
